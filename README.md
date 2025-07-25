@@ -1,4 +1,4 @@
-# Experiment-2
+# Data types in C++
 
 Study of Various Data Types in C++
 
