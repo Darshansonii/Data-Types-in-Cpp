@@ -1,23 +1,36 @@
 # Data types in C++
 
-Study of Various Data Types in C++
 
-This C++ program is designed to help beginners understand and explore the different data types available in the C++ programming language. It demonstrates how to declare variables of various types, display their values, and examine their sizes (in bytes) using the sizeof operator.
+Aim  
+* To write and execute a C++ program that demonstrates the declaration, initialization, and usage of various data types.
 
-Key Concepts Covered:
-Basic data types: int, float, double, char, bool
+Apparatus  
+* Computer (Laptop/Desktop)  
+* Keyboard and Mouse  
+* Power Supply  
 
-Derived and other types: wchar_t, short, long, unsigned, etc.
+Software Used  
+* Visual Studio Code  
+* MinGW or GCC/G++ Compiler  
+* Terminal or Command Prompt
 
-Memory usage: Using sizeof() to check how much memory each type consumes
+Theory  
+* C++ supports a wide variety of data types, including both primitive and user-defined types.  
+* Common built-in data types include `int`, `float`, `double`, `char`, and `bool`, which are used to store numbers, characters, and logical values.  
+* The program also utilizes `sizeof()` to display memory size allocated to each data type.  
+* Type modifiers such as `short`, `long`, `unsigned`, and `signed` further refine the characteristics of the base data types.  
+* Demonstrating multiple data types helps in understanding how data is stored, manipulated, and displayed.  
+* It is essential for developing logic and choosing the correct data representation for different types of problems.  
+* This program serves as a foundation for understanding variable declaration, initialization, and type safety in C++.
 
-Variable declaration and initialization
+Program Features  
+* Declares and initializes variables of different types: `int`, `float`, `double`, `char`, `bool`  
+* Displays values and corresponding memory sizes using `sizeof()`  
+* Demonstrates type modifiers like `unsigned int`, `long`, and `short`  
+* Outputs all variable values along with their types and storage sizes
 
-Formatted output using cout
-
-Educational Purpose:
-
-The goal of this program is to provide a hands-on introduction to how C++ handles different kinds of data, which is essential for writing efficient and error-free code.
-
-This is typically one of the first programs introduced in C++ courses to build a strong foundation for further programming topics.
-
+Conclusion  
+* The program was successfully written and executed in Visual Studio Code using the GCC compiler.  
+* It effectively demonstrated the usage of different C++ data types and how they store values in memory.  
+* Understanding data types is crucial for optimizing performance and ensuring proper memory usage in real-world applications.  
+* This exercise laid a strong foundation for working with variables, memory, and data representation in C++.
