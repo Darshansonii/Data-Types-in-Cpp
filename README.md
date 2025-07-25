@@ -22,6 +22,9 @@ Theory
 * Demonstrating multiple data types helps in understanding how data is stored, manipulated, and displayed.  
 * It is essential for developing logic and choosing the correct data representation for different types of problems.  
 * This program serves as a foundation for understanding variable declaration, initialization, and type safety in C++.
+* Character data types (`char`) store single symbols and can be manipulated with their ASCII values.  
+* Data type conversions (implicit and explicit) are also part of learning how variables interact in expressions.  
+* Proper selection and use of data types ensure efficient and bug-free program execution.
 
 Program Features  
 * Declares and initializes variables of different types: `int`, `float`, `double`, `char`, `bool`  
